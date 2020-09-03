@@ -71,7 +71,9 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  top: 20px;
+  top: 0px;
+  
+
 }
 
 #header .header-container {
@@ -1286,7 +1288,7 @@ section {
   font-weight: 700;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1fpx solid #eee;
 }
 
 .portfolio-details .portfolio-info ul {
@@ -1327,7 +1329,7 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f1f0f2;
+  background: #blue;
 }
 
 #footer .footer-top {
